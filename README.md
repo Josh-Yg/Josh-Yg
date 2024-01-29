@@ -7,7 +7,6 @@ I will use this GitHub profile to showcase my data science skills.
 - Python
 - Data Science
 - Badminton
-- 
 <!--
 **Josh-Yg/Josh-Yg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
